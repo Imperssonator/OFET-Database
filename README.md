@@ -1,5 +1,5 @@
 ### Welcome to the OFET Database GitHub Repository
-Any use of this repository for research purposes must cite (the original paper)[https://doi.org/10.1016/j.cossms.2016.06.002].
+Any use of this repository for research purposes must cite [the original paper](https://doi.org/10.1016/j.cossms.2016.06.002).
 
 # Exploring the Database Online
 OFET Database is viewable as a table with interactive filtering and sorting, via this link:
