@@ -1,9 +1,9 @@
-###Welcome to the OFET Database GitHub Repository
-Any use of this repository for research purposes must legally cite the paper in which it was introduced.
+### Welcome to the OFET Database GitHub Repository
+Any use of this repository for research purposes must cite (the original paper)[https://doi.org/10.1016/j.cossms.2016.06.002].
 
 # Exploring the Database Online
 OFET Database is viewable as a table with interactive filtering and sorting, via this link:
-### [Explore the Database](http://nbviewer.jupyter.org/github/Imperssonator/OFET-Database/blob/master/OFET-Table.ipynb)
+## [Explore the Database](http://nbviewer.jupyter.org/github/Imperssonator/OFET-Database/blob/master/OFET-Table.ipynb)
 
 ## Create plots via MatLab GUI
 
